@@ -1,2 +1,2 @@
-# bulletinboardtechbase
+# bulletinboardtb
 掲示板
