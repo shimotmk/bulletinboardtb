@@ -133,4 +133,3 @@ $results=$pdo->query($sql);
         echo "投稿番号：{$row['num']} 名前：{$row['name']} コメント：{$row['comment']} 投稿日：{$row['time']}"."<br>";
      }
 ?>
-
